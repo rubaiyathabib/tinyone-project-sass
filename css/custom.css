@@ -121,7 +121,7 @@ footer {
     font-size: 17px;
     background-color: #fcdb00;
     border-color: #fcdb00;
-    padding: 10px 30px;
+    padding: 10px 16px !important;
     font-weight: 800;
     transition: 0.3s all ease; }
     footer .row .btn-custom:hover {
@@ -181,7 +181,6 @@ footer {
     padding: 60px 0 75px; }
 
   footer {
-    overflow: hidden;
     padding: 40px 0 60px; }
 
   footer .row .icn {
@@ -357,9 +356,10 @@ footer {
     font-size: 16px;
     line-height: 20px; }
 
-  footer .row .btn-custom {
-    padding: 10px 19px; }
-
+  	/*footer .row .btn-custom {
+     		padding: 10px 19px;
+     	}
+  */
   footer .row .icn ul li a i {
     font-size: 45px; }
 
@@ -462,11 +462,11 @@ footer {
 
   footer .row .btn-custom {
     font-size: 15px;
-    padding: 9px 12px;
+    /* padding: 9px 12px;*/
     font-weight: 600; }
 
   footer .row .form-control {
-    padding: 20px 0;
+    /* padding: 20px 0;*/
     font-size: 15px;
     text-align: center; }
 
